@@ -42,7 +42,7 @@ catkin_make
 Add these lines to ~/.bashrc
 
 ```bash
-export ROS_MASTER_URI=localhost:11311
+export ROS_MASTER_URI=http://localhost:11311
 export ROS_HOSTNAME=<Pi IP>
 export ROS_IP=<Pi IP>
 ```
